@@ -11,7 +11,6 @@ function allCarYear(inventory){
     }
 
     return years
-
 }
 
 module.exports = { allCarYear }

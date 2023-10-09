@@ -11,7 +11,7 @@ function getNumberOfCarOlderThan2000(inventory){
 
     for(let i = 0; i < carYears.length; i++){
         if(carYears[i] < 2000) {
-            olderThan2000.push(carYears[i])
+            olderThan2000.push(carYears[i]);
         }
     }
 
